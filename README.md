@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Luis Filipe Crivellaro and I'm a Student of Software Engineering, from São Paulo, Brazil 🇧🇷</h3>
+<h3 align="left">Hi 👋! My name is Luis Filipe Crivellaro and I'm a Student of Software Engineering, from São Paulo, Brazil 📍 </h3>
 
 ###
 
